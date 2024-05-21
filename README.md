@@ -1,4 +1,4 @@
-# assignment-2
+# assignment-2 TAIMOOR HUSSAIN
 Second assignment of Data visualization.
 
 Submitted by: Taimoor Hussain and Hassan Sherazi
